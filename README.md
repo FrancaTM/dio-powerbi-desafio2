@@ -7,7 +7,7 @@
 - Coleta e processamento de dados com Power bi
 
 ### Screenshots
-![Relatório](https://github.com/FrancaTM/PLACEHOLDER.png)
+![Relatório](https://github.com/FrancaTM/dio-powerbi-desafio2/blob/main/Relat%C3%B3rio.png)
 
 ### Etapas
 
